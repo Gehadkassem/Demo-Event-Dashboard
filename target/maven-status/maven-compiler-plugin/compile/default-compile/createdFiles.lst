@@ -1,0 +1,3 @@
+org\example\PageBase.class
+Pages\LoginPage.class
+configration\LoadProperties.class
